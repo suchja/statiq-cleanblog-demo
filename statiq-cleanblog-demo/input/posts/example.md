@@ -1,8 +1,8 @@
-Title: This Is An Example Post
+Title: This Is An SECOND Example Post
 Lead: Yay for examples!
-Published: 12/13/2014
+Published: 04/20/2024
 Tags:
   - Examples
-  - Tag with spaces
+  - Another Tag
 ---
-This is my example blog post content.
+This is my new example blog post content.

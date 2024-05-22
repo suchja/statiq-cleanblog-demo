@@ -1,5 +1,7 @@
 MinimumStatiqWebVersion-CleanBlog: "1.0.0-beta.36"
 SiteTitle: CleanBlog Demo
+Host: suchja.github.io/statiq-cleanblog-demo
+LinksUseHttps: true
 PageTitle: |
   =>
   {

@@ -12,10 +12,10 @@ jobs:
         run:
           working-directory: statiq-cleanblog-demo
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v4
       with:
         submodules: recursive
-    - uses: actions/setup-dotnet@v1
+    - uses: actions/setup-dotnet@v4
       with:
         dotnet-version: '8.x' # SDK Version to use.
     - run: dotnet run -- deploy

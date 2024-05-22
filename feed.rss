@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>CleanBlog Demo</title>
+		<link>https://suchja.github.io/statiq-cleanblog-demo</link>
+		<description />
+		<copyright>Copyright © 2024</copyright>
+		<pubDate>Wed, 22 May 2024 14:12:56 GMT</pubDate>
+		<lastBuildDate>Wed, 22 May 2024 14:12:56 GMT</lastBuildDate>
+		<item>
+			<title>This Is An SECOND Example Post</title>
+			<link>https://suchja.github.io/statiq-cleanblog-demo/posts/another-really-cool-example</link>
+			<description>&lt;p&gt;This is my new example blog post content.&lt;/p&gt;</description>
+			<guid>https://suchja.github.io/statiq-cleanblog-demo/posts/another-really-cool-example</guid>
+			<pubDate>Wed, 22 May 2024 14:12:33 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my new example blog post content.&lt;/p&gt;
+&lt;h3 id="here-we-have-a-h3-heading"&gt;Here we have a h3 heading&lt;/h3&gt;
+&lt;p&gt;and some text below the heading!&lt;/p&gt;
+&lt;p&gt;Now we try something fancy and go for some &lt;code&gt;public class InlineCodeBlock&lt;/code&gt; and also a more comprehensive C# code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-csharp"&gt;public class CodeBlock
+{
+  private string _attribute;
+
+  public CodeBlock {
+    _attribute = &amp;quot;Initialized in Constructor!&amp;quot;;
+  }
+
+  public void SomeMethod(int param1, char param2)
+  {
+    // Do something here!
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>This Is An Example Post</title>
+			<link>https://suchja.github.io/statiq-cleanblog-demo/posts/example</link>
+			<description>&lt;p&gt;This is my new example blog post content.&lt;/p&gt;</description>
+			<guid>https://suchja.github.io/statiq-cleanblog-demo/posts/example</guid>
+			<pubDate>Wed, 22 May 2024 14:12:33 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my new example blog post content.&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>Testing `Excerpt` as frontmatter variable</title>
+			<link>https://suchja.github.io/statiq-cleanblog-demo/posts/excerpt-in-frontmatter</link>
+			<description>This is some text defined as the content for the variable `excerpt` in posts frontmatter.</description>
+			<guid>https://suchja.github.io/statiq-cleanblog-demo/posts/excerpt-in-frontmatter</guid>
+			<pubDate>Wed, 22 May 2024 14:12:33 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Now this is the first sentence in the body of the post. Maybe it will not be &amp;quot;excerpted&amp;quot;, because the &lt;code&gt;Excerpt&lt;/code&gt; is already defined in frontmatter!?!&lt;/p&gt;
+&lt;h2 id="now-we-start-with-the-article"&gt;Now we start with the article!&lt;/h2&gt;
+&lt;p&gt;This shouldn't be shown on the main page.&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>Here we have an example for checking `excerpt`</title>
+			<link>https://suchja.github.io/statiq-cleanblog-demo/posts/long-first-sentence</link>
+			<description>&lt;p&gt;If I understand everything correctly, than the first sentence (or paragraph?) within a post will be used as &lt;code&gt;excerpt&lt;/code&gt; and thus shown on the main page as kind of teaser! I'm not really sure why this works. It probably means &lt;em&gt;STATIQ&lt;/em&gt; extracts the &lt;code&gt;excerpt&lt;/code&gt; in one of its &lt;code&gt;pipelines&lt;/code&gt;.&lt;/p&gt;</description>
+			<guid>https://suchja.github.io/statiq-cleanblog-demo/posts/long-first-sentence</guid>
+			<pubDate>Wed, 22 May 2024 14:12:33 GMT</pubDate>
+			<content:encoded>&lt;p&gt;If I understand everything correctly, than the first sentence (or paragraph?) within a post will be used as &lt;code&gt;excerpt&lt;/code&gt; and thus shown on the main page as kind of teaser! I'm not really sure why this works. It probably means &lt;em&gt;STATIQ&lt;/em&gt; extracts the &lt;code&gt;excerpt&lt;/code&gt; in one of its &lt;code&gt;pipelines&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id="now-we-start-with-the-article"&gt;Now we start with the article!&lt;/h2&gt;
+&lt;p&gt;This shouldn't be shown on the main page.&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+	</channel>
+</rss>

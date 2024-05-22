@@ -1,7 +1,0 @@
-# Ignore generated folders
-statiq-cleanblog-demo/[Bb]in/**
-statiq-cleanblog-demo/[Oo]bj/**
-statiq-cleanblog-demo/[Oo]utput/**
-statiq-cleanblog-demo/[Cc]ache/**
-statiq-cleanblog-demo/[Tt]emp/**
-statiq-cleanblog-demo/wwwroot/**

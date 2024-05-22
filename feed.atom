@@ -4,12 +4,12 @@
 	<title>CleanBlog Demo</title>
 	<link rel="self" href="https://suchja.github.io/statiq-cleanblog-demo" />
 	<rights>Copyright © 2024</rights>
-	<updated>2024-05-22T14:12:56Z</updated>
+	<updated>2024-05-22T14:17:36Z</updated>
 	<entry>
 		<id>https://suchja.github.io/statiq-cleanblog-demo/posts/another-really-cool-example</id>
 		<title>This Is An SECOND Example Post</title>
 		<link href="https://suchja.github.io/statiq-cleanblog-demo/posts/another-really-cool-example" />
-		<updated>2024-05-22T14:12:33Z</updated>
+		<updated>2024-05-22T14:17:01Z</updated>
 		<content>&lt;p&gt;This is my new example blog post content.&lt;/p&gt;
 &lt;h3 id="here-we-have-a-h3-heading"&gt;Here we have a h3 heading&lt;/h3&gt;
 &lt;p&gt;and some text below the heading!&lt;/p&gt;
@@ -35,7 +35,7 @@
 		<id>https://suchja.github.io/statiq-cleanblog-demo/posts/example</id>
 		<title>This Is An Example Post</title>
 		<link href="https://suchja.github.io/statiq-cleanblog-demo/posts/example" />
-		<updated>2024-05-22T14:12:33Z</updated>
+		<updated>2024-05-22T14:17:01Z</updated>
 		<content>&lt;p&gt;This is my new example blog post content.&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;This is my new example blog post content.&lt;/p&gt;</summary>
@@ -44,7 +44,7 @@
 		<id>https://suchja.github.io/statiq-cleanblog-demo/posts/excerpt-in-frontmatter</id>
 		<title>Testing `Excerpt` as frontmatter variable</title>
 		<link href="https://suchja.github.io/statiq-cleanblog-demo/posts/excerpt-in-frontmatter" />
-		<updated>2024-05-22T14:12:33Z</updated>
+		<updated>2024-05-22T14:17:01Z</updated>
 		<content>&lt;p&gt;Now this is the first sentence in the body of the post. Maybe it will not be &amp;quot;excerpted&amp;quot;, because the &lt;code&gt;Excerpt&lt;/code&gt; is already defined in frontmatter!?!&lt;/p&gt;
 &lt;h2 id="now-we-start-with-the-article"&gt;Now we start with the article!&lt;/h2&gt;
 &lt;p&gt;This shouldn't be shown on the main page.&lt;/p&gt;
@@ -55,7 +55,7 @@
 		<id>https://suchja.github.io/statiq-cleanblog-demo/posts/long-first-sentence</id>
 		<title>Here we have an example for checking `excerpt`</title>
 		<link href="https://suchja.github.io/statiq-cleanblog-demo/posts/long-first-sentence" />
-		<updated>2024-05-22T14:12:33Z</updated>
+		<updated>2024-05-22T14:17:01Z</updated>
 		<content>&lt;p&gt;If I understand everything correctly, than the first sentence (or paragraph?) within a post will be used as &lt;code&gt;excerpt&lt;/code&gt; and thus shown on the main page as kind of teaser! I'm not really sure why this works. It probably means &lt;em&gt;STATIQ&lt;/em&gt; extracts the &lt;code&gt;excerpt&lt;/code&gt; in one of its &lt;code&gt;pipelines&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id="now-we-start-with-the-article"&gt;Now we start with the article!&lt;/h2&gt;
 &lt;p&gt;This shouldn't be shown on the main page.&lt;/p&gt;

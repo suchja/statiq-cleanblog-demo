@@ -5,14 +5,14 @@
 		<link>https://suchja.github.io/statiq-cleanblog-demo</link>
 		<description />
 		<copyright>Copyright © 2024</copyright>
-		<pubDate>Wed, 22 May 2024 14:12:56 GMT</pubDate>
-		<lastBuildDate>Wed, 22 May 2024 14:12:56 GMT</lastBuildDate>
+		<pubDate>Wed, 22 May 2024 14:17:36 GMT</pubDate>
+		<lastBuildDate>Wed, 22 May 2024 14:17:36 GMT</lastBuildDate>
 		<item>
 			<title>This Is An SECOND Example Post</title>
 			<link>https://suchja.github.io/statiq-cleanblog-demo/posts/another-really-cool-example</link>
 			<description>&lt;p&gt;This is my new example blog post content.&lt;/p&gt;</description>
 			<guid>https://suchja.github.io/statiq-cleanblog-demo/posts/another-really-cool-example</guid>
-			<pubDate>Wed, 22 May 2024 14:12:33 GMT</pubDate>
+			<pubDate>Wed, 22 May 2024 14:17:01 GMT</pubDate>
 			<content:encoded>&lt;p&gt;This is my new example blog post content.&lt;/p&gt;
 &lt;h3 id="here-we-have-a-h3-heading"&gt;Here we have a h3 heading&lt;/h3&gt;
 &lt;p&gt;and some text below the heading!&lt;/p&gt;
@@ -39,7 +39,7 @@
 			<link>https://suchja.github.io/statiq-cleanblog-demo/posts/example</link>
 			<description>&lt;p&gt;This is my new example blog post content.&lt;/p&gt;</description>
 			<guid>https://suchja.github.io/statiq-cleanblog-demo/posts/example</guid>
-			<pubDate>Wed, 22 May 2024 14:12:33 GMT</pubDate>
+			<pubDate>Wed, 22 May 2024 14:17:01 GMT</pubDate>
 			<content:encoded>&lt;p&gt;This is my new example blog post content.&lt;/p&gt;
 </content:encoded>
 			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
@@ -49,7 +49,7 @@
 			<link>https://suchja.github.io/statiq-cleanblog-demo/posts/excerpt-in-frontmatter</link>
 			<description>This is some text defined as the content for the variable `excerpt` in posts frontmatter.</description>
 			<guid>https://suchja.github.io/statiq-cleanblog-demo/posts/excerpt-in-frontmatter</guid>
-			<pubDate>Wed, 22 May 2024 14:12:33 GMT</pubDate>
+			<pubDate>Wed, 22 May 2024 14:17:01 GMT</pubDate>
 			<content:encoded>&lt;p&gt;Now this is the first sentence in the body of the post. Maybe it will not be &amp;quot;excerpted&amp;quot;, because the &lt;code&gt;Excerpt&lt;/code&gt; is already defined in frontmatter!?!&lt;/p&gt;
 &lt;h2 id="now-we-start-with-the-article"&gt;Now we start with the article!&lt;/h2&gt;
 &lt;p&gt;This shouldn't be shown on the main page.&lt;/p&gt;
@@ -61,7 +61,7 @@
 			<link>https://suchja.github.io/statiq-cleanblog-demo/posts/long-first-sentence</link>
 			<description>&lt;p&gt;If I understand everything correctly, than the first sentence (or paragraph?) within a post will be used as &lt;code&gt;excerpt&lt;/code&gt; and thus shown on the main page as kind of teaser! I'm not really sure why this works. It probably means &lt;em&gt;STATIQ&lt;/em&gt; extracts the &lt;code&gt;excerpt&lt;/code&gt; in one of its &lt;code&gt;pipelines&lt;/code&gt;.&lt;/p&gt;</description>
 			<guid>https://suchja.github.io/statiq-cleanblog-demo/posts/long-first-sentence</guid>
-			<pubDate>Wed, 22 May 2024 14:12:33 GMT</pubDate>
+			<pubDate>Wed, 22 May 2024 14:17:01 GMT</pubDate>
 			<content:encoded>&lt;p&gt;If I understand everything correctly, than the first sentence (or paragraph?) within a post will be used as &lt;code&gt;excerpt&lt;/code&gt; and thus shown on the main page as kind of teaser! I'm not really sure why this works. It probably means &lt;em&gt;STATIQ&lt;/em&gt; extracts the &lt;code&gt;excerpt&lt;/code&gt; in one of its &lt;code&gt;pipelines&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id="now-we-start-with-the-article"&gt;Now we start with the article!&lt;/h2&gt;
 &lt;p&gt;This shouldn't be shown on the main page.&lt;/p&gt;
